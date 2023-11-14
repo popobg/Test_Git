@@ -1,2 +1,3 @@
-fichier test
-hello
+Git Test
+
+Test repository to practice git commands.
