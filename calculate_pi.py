@@ -10,7 +10,7 @@ dn2 = 3
 dn3 = 4
 p = 3.0
 
-n = int(input("Combien de fois ?\n> "))
+n = int(input("How many times ?\n> "))
 
 for i in range(1, n + 1):
     p = p + sign * (4/(dn1 * dn2 * dn3))
