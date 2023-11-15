@@ -20,3 +20,4 @@ for i in range(1, n + 1):
     sign = -sign
 
 print(p)
+print(1)
